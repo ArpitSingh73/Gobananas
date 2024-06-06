@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gobananas/static/css/main.37d87845.css",
+    "main.js": "/Gobananas/static/js/main.7987a4d9.js",
+    "static/js/453.990ff0bc.chunk.js": "/Gobananas/static/js/453.990ff0bc.chunk.js",
+    "index.html": "/Gobananas/index.html",
+    "main.37d87845.css.map": "/Gobananas/static/css/main.37d87845.css.map",
+    "main.7987a4d9.js.map": "/Gobananas/static/js/main.7987a4d9.js.map",
+    "453.990ff0bc.chunk.js.map": "/Gobananas/static/js/453.990ff0bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37d87845.css",
+    "static/js/main.7987a4d9.js"
+  ]
+}
